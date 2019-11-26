@@ -31,12 +31,16 @@ function cargar_datos(){
 	});
 }
 
+$('#modalModulos').on('show.bs.modal', function () {
+	$('.icp-auto').iconpicker();
+ });
 
 function agregarModulo(){
 	$("#hdModuloId").val(0);
 	$("#modalModulos").modal("show");
 	$("#txtClaveModulo").val("");
 	$("#txtNombreModulo").val("");
+	$("#txtIcono").val("");
 	$("#txtURLModulo").val("");
 	$("#cbSistemas").val(0);
 	$("#ckActivo").attr('checked', true)
@@ -57,6 +61,7 @@ function editarModulo(ID_MODULO){
 				$("#txtClaveModulo").val(item.MDL_CLV);
 				$("#txtNombreModulo").val(item.MDL_NMBR);
 				$("#txtURLModulo").val(item.MDL_URL);
+				$("#txtIcono").val(item.MDL_ICN);
 				$("#cbSistemas").val(item.SISTEMAS_SIS_IDINTRN);
 				$("#modalModulos").modal("show");
 			} else {
@@ -84,6 +89,7 @@ $("#btnGuadarModulo").click(function(){
 					NOMBRE: $("#txtNombreModulo").val(), 
 					ID_MODULO: $("#hdModuloId").val(),
 					URL_MODULO: $("#txtURLModulo").val(),
+					ICON: $("#txtIcono").val(),
 					ID_SISTEMA: $("#cbSistemas").val(),
 					ACTIVO: ACTIVO 
 				},

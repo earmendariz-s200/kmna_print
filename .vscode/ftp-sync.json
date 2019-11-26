@@ -1,0 +1,27 @@
+{
+    "remotePath": "/var/www/html/carmona",
+    "host": "3.86.229.197",
+    "username": "ubuntu",
+    "password": "status200",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": "D:\\Escritorio\\carmona\\carmona_key.pem",
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

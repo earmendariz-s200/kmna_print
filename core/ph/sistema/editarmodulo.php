@@ -5,11 +5,12 @@
 	$data = array();
 	try{
 	$db->query('UPDATE MODULOS  
-					SET MDL_CLV=:clave, MDL_NMBR=:nombre, MDL_URL=:url, SISTEMAS_SIS_IDINTRN=:sistema, MDL_ACTV=:activo, MDL_MDFCN=:modificacion 
+					SET MDL_CLV=:clave, MDL_NMBR=:nombre, MDL_URL=:url, MDL_ICN=:icono, SISTEMAS_SIS_IDINTRN=:sistema, MDL_ACTV=:activo, MDL_MDFCN=:modificacion 
 					WHERE MDL_IDINTRN=:id');
 	$db->bind(':clave', strtoupper($_POST["CLAVE"]));
 	$db->bind(':nombre', strtoupper($_POST["NOMBRE"]));
 	$db->bind(':url', $_POST["URL_MODULO"]);
+	$db->bind('icono', $_POST["ICON"]);
 	$db->bind(':sistema', $_POST["ID_SISTEMA"]);
 	$db->bind(':activo', $_POST["ACTIVO"]);
 	$db->bind(':modificacion', $_SESSION["USR_CLV"]." ".date("Y-m-d H:i:s"));

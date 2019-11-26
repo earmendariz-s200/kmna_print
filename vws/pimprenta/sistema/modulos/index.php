@@ -3,6 +3,9 @@ session_start();
 include realpath($_SERVER["DOCUMENT_ROOT"]).$_SESSION["DIR_LOCAL"]."/vws/head.php"; 
 include realpath($_SERVER["DOCUMENT_ROOT"]).$_SESSION["DIR_LOCAL"]."/vws/header.php";
 ?>
+<style>
+.icp-auto{z-index:1151 !important;}
+</style>
 <div class="app-content content">
   <div class="content-wrapper">
     <div class="content-header row">
@@ -69,6 +72,12 @@ include realpath($_SERVER["DOCUMENT_ROOT"]).$_SESSION["DIR_LOCAL"]."/vws/header.
             <label>Nombre de Modulo:</label>
             <input type="text" id="txtNombreModulo" class="form-control">
           </div>
+          <div class="col-md-5">
+            <div class="form-group">
+              <label>Icono</label>
+              <input class="form-control icp icp-auto" value="fas fa-anchor" type="text" id="txtIcono"/>
+            </div>
+          </div>
         </div>
         <div class="row" style="margin-top: 10px;">
           <div class="col-sm-6">
@@ -107,4 +116,5 @@ include realpath($_SERVER["DOCUMENT_ROOT"]).$_SESSION["DIR_LOCAL"]."/vws/header.
 
   <?php include realpath($_SERVER["DOCUMENT_ROOT"]).$_SESSION["DIR_LOCAL"]."/vws/footer.php"; ?>
   <script type="text/javascript" src="<?php echo $URL_PRINCIPAL; ?>core/js/util.js"></script>
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/js/fontawesome-iconpicker.min.js"></script>
   <script type="text/javascript" src="<?php echo $URL_PRINCIPAL; ?>core/js/sistema/modulos.js"></script>

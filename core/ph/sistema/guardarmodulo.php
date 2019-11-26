@@ -4,10 +4,11 @@
 	include "../utilerias/funciones.php";
 	$data = array();
 	try{
-	$db->query('INSERT INTO MODULOS (MDL_CLV, MDL_NMBR, MDL_URL, SISTEMAS_SIS_IDINTRN, MDL_ACTV, MDL_CRCN) VALUES (:clave, :nombre, :url, :sistema, :activo, :creacion)');
+	$db->query('INSERT INTO MODULOS (MDL_CLV, MDL_NMBR, MDL_URL, MDL_ICN, SISTEMAS_SIS_IDINTRN, MDL_ACTV, MDL_CRCN) VALUES (:clave, :nombre, :url, :icono, :sistema, :activo, :creacion)');
 	$db->bind(':clave', strtoupper($_POST["CLAVE"]));
 	$db->bind(':nombre', strtoupper($_POST["NOMBRE"]));
 	$db->bind(':url', $_POST["URL_MODULO"]);
+	$db->bind('icono', $_POST["ICON"]);
 	$db->bind(':sistema', $_POST["ID_SISTEMA"]);
 	$db->bind(':activo', $_POST["ACTIVO"]);
 	$db->bind(':creacion', $_SESSION["USR_CLV"]." ".date("Y-m-d H:i:s"));

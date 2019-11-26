@@ -92,14 +92,14 @@ Project:  CARMONA IMPRESORES
 
 
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/forms/selects/select2.min.css">
-
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/datatable/datatables.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/extensions/responsive.dataTables.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/extensions/colReorder.dataTables.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/extensions/buttons.dataTables.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/datatable/buttons.bootstrap4.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/vendors/css/tables/extensions/fixedHeader.dataTables.min.css">
-
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/css/fontawesome-iconpicker.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/css/plugins/extensions/toastr.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $URL_PRINCIPAL; ?>assets/tpl_assets/css/style.css">
 </head>
