@@ -1,0 +1,87 @@
+[22-Jan-2019 16:24:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 12
+[22-Jan-2019 16:24:13 America/Chicago] PHP Warning:  move_uploaded_file(/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../../uploads/D1878EF5-B3AB-8496-4F56-70CF6E164CDF./tmp/phplEu2VY): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:24:13 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplEu2VY' to '/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../../uploads/D1878EF5-B3AB-8496-4F56-70CF6E164CDF./tmp/phplEu2VY' in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:25:37 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 12
+[22-Jan-2019 16:25:37 America/Chicago] PHP Warning:  move_uploaded_file(/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../../uploads/D1878EF5-B3AB-8496-4F56-70CF6E164CDF./tmp/php0lGRZR): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:25:37 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0lGRZR' to '/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../../uploads/D1878EF5-B3AB-8496-4F56-70CF6E164CDF./tmp/php0lGRZR' in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:28:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 12
+[22-Jan-2019 16:28:50 America/Chicago] PHP Warning:  move_uploaded_file(/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../temp/uploads/B0F9953E-FB00-C8A4-5D19-755A529464B0./tmp/phpsoSGpQ): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:28:50 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsoSGpQ' to '/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../temp/uploads/B0F9953E-FB00-C8A4-5D19-755A529464B0./tmp/phpsoSGpQ' in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 18
+[22-Jan-2019 16:32:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 17
+[22-Jan-2019 16:32:55 America/Chicago] PHP Warning:  move_uploaded_file(/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../temp/uploads/C36ADF7E-0261-A8F9-0453-465766812988.pdf): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 23
+[22-Jan-2019 16:32:55 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRAEL2I' to '/home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada../../temp/uploads/C36ADF7E-0261-A8F9-0453-465766812988.pdf' in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 23
+[22-Jan-2019 16:38:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 17
+[22-Jan-2019 18:03:33 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 7
+[22-Jan-2019 18:06:56 America/Chicago] PHP Warning:  include(../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:06:56 America/Chicago] PHP Warning:  include(../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:06:56 America/Chicago] PHP Warning:  include(): Failed opening '../../../core/ph/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:06:56 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 9
+[22-Jan-2019 18:09:30 America/Chicago] PHP Warning:  include(../../../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:09:30 America/Chicago] PHP Warning:  include(../../../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:09:30 America/Chicago] PHP Warning:  include(): Failed opening '../../../../../core/ph/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:09:30 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 9
+[22-Jan-2019 18:10:26 America/Chicago] PHP Warning:  include(/../../../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:10:26 America/Chicago] PHP Warning:  include(): Failed opening '/../../../../../core/ph/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:10:26 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 9
+[22-Jan-2019 18:11:02 America/Chicago] PHP Warning:  include(/../../../../core/ph/config.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:11:02 America/Chicago] PHP Warning:  include(): Failed opening '/../../../../core/ph/config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 3
+[22-Jan-2019 18:11:02 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 9
+[22-Jan-2019 18:15:14 America/Chicago] PHP Fatal error:  Call to undefined function guid() in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/server_upload.php on line 9
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 3
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 3
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 4
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 4
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 319
+[05-Feb-2019 23:10:49 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 319
+[12-Feb-2019 17:52:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Feb-2019 17:52:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Feb-2019 17:55:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Feb-2019 17:55:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Feb-2019 17:58:13 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Feb-2019 17:58:13 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Feb-2019 17:58:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Feb-2019 17:58:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-Feb-2019 18:05:59 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-Feb-2019 18:05:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 17:56:32 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 17:56:32 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 15:52:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 15:52:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[10-May-2019 16:44:50 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[10-May-2019 16:44:50 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:08:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:08:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:28:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:28:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:29:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:29:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:30:24 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:30:24 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:31:38 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:31:38 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:31:45 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:31:45 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:33:26 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:33:26 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[11-May-2019 11:33:30 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[11-May-2019 11:33:30 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 15:06:27 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 15:06:27 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 15:37:03 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 15:37:03 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 3
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 3
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 4
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 4
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 319
+[12-May-2019 17:04:02 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/almacen/entrada/index.php on line 319
+[14-May-2019 18:38:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:38:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 18:39:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:39:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 18:41:18 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:41:18 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 18:41:22 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:41:22 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0

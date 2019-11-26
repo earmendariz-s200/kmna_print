@@ -1,0 +1,7 @@
+# Activar RewriteEngine
+RewriteEngine on
+ 
+# Reescribir la URL solicitada por el usuario
+#   Entrada:  facturas/NOMBRE/
+#   Salida: facturas.php?id=NOMBRE
+RewriteRule ^facturas/(\w+)/?$ facturas.php?id=$1

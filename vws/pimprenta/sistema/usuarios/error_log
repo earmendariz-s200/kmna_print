@@ -1,0 +1,120 @@
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 38
+[08-Nov-2018 18:32:17 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 38
+[08-Nov-2018 18:33:40 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[08-Nov-2018 18:33:40 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[08-Nov-2018 18:33:40 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[08-Nov-2018 18:33:40 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[08-Nov-2018 18:33:40 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 86
+[27-Mar-2019 19:38:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 19:38:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 19:45:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 19:45:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 19:55:55 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 19:55:55 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 19:56:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 19:56:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 19:57:29 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 19:57:29 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:02:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:08:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:08:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:09:43 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:09:43 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[27-Mar-2019 20:13:07 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[27-Mar-2019 20:13:07 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 89
+[27-Mar-2019 20:13:25 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:13:25 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:33 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:33 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:34 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:14:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:15:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:15:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:17:05 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:17:05 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Mar-2019 20:17:57 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Mar-2019 20:17:57 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 12:32:10 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 12:32:10 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 12:59:46 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 12:59:46 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Mar-2019 13:02:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Mar-2019 13:02:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[01-Apr-2019 10:15:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[01-Apr-2019 10:15:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Apr-2019 16:11:56 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Apr-2019 16:11:56 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 18:50:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 18:50:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[08-May-2019 18:55:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[08-May-2019 18:55:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 15:51:14 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 15:51:14 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[09-May-2019 15:51:21 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[09-May-2019 15:51:21 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 14:25:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 14:25:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 14:28:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 14:28:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[12-May-2019 14:28:09 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[12-May-2019 14:28:09 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 13:12:35 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 13:12:35 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[14-May-2019 13:12:41 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[14-May-2019 13:12:41 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 89
+[14-May-2019 18:28:15 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:28:15 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/head.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/head.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 3
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  include(/home1/devlajfg/public_html/status200.mx/demo/vws/header.php): failed to open stream: No such file or directory in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[14-May-2019 18:28:42 America/Chicago] PHP Warning:  include(): Failed opening '/home1/devlajfg/public_html/status200.mx/demo/vws/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 4
+[14-May-2019 18:28:42 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home1/devlajfg/public_html/status200.mx/demo/sw_carmona/vws/pimprenta/sistema/usuarios/index.php on line 89
+[15-May-2019 09:46:58 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 09:46:59 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[15-May-2019 09:48:17 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[15-May-2019 09:48:17 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
